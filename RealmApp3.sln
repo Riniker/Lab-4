@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmApp3.Android", "RealmApp3\RealmApp3.Android\RealmApp3.Android.csproj", "{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmApp3", "RealmApp3\RealmApp3\RealmApp3.csproj", "{A19DBB03-AECA-4230-AAC6-06381FC435B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5950E6A-D4D6-4F3E-91E8-72AC5E78ABFF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19DBB03-AECA-4230-AAC6-06381FC435B9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D2DCD4-CA85-4BA4-AF6C-842DEB14B421}
+	EndGlobalSection
+EndGlobal
